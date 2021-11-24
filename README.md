@@ -14,6 +14,11 @@ I have assembled all of important web developer interview questions from various
 8. [React Question](frontend/react_questions/README.md)
 9. [Testing Question](frontend/testing_question/README.md)
 
-### Reference
+### Reference & Resources
 
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions).
+- [Design Resources for developers](https://github.com/bradtraversy/design-resources-for-developers?fbclid=IwAR3sgt24xBNRFMVUg2OkOy3hmtPbOlm0voeAqCdlPTYBAQkmYg44qFxIXFw#chrome-extensions)
+
+### Tools
+
+- [Country Flags](https://www.countryflags.io/)
